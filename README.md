@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @misskamauu
+- 👀 I’m interested in data analytics
+- 🌱 I’m currently learning the basics of data science
+- 💞️ I’m looking to collaborate on Python 3 discussions
